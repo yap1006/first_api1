@@ -1,0 +1,19 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "this is my CRUD API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "yash paliwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
